@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: Jezzabell91/ruby_blog
+  branch: main
 
 media_folder: content/assets
 public_folder: ../assets
